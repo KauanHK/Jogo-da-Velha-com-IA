@@ -112,9 +112,3 @@ def playVeia(tabela):
 
     jogada = ia_play(tabela)
     return jogada
-
-
-    # tabela = play(tabela,jogada,"O")
-    # print(tabela[:3])
-    # print(tabela[3:6])
-    # print(tabela[6:])
